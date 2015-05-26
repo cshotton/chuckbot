@@ -6,9 +6,9 @@ See routes/blog.js for the meat of the app.
 
 To run:
 
-cd chuckbot
-npm install
-npm start
+    cd chuckbot
+    npm install
+    npm start
 
 Note, you may need to edit the package.json file to change the start script to specify
 node instead of nodejs or vice versa if the npm start command fails.
